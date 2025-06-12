@@ -1,5 +1,5 @@
 {
-  "name": "easycarparts-homepage",
+  "name": "ecp-home",
   "compatibility_date": "2025-06-12",
   "assets": {
     "directory": "./dist"
